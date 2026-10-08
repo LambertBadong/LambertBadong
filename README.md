@@ -71,9 +71,12 @@ A Discord bot that turns everyday chat into an organised household: expenses, ch
 
 ### [Project KOBE](https://github.com/LambertBadong/Project-KOBE)
 
-A voice-first desktop AI assistant for Windows, with wake word, speech and an always-on display.
+A voice-first desktop AI assistant for Windows: wake word, speech, an always-on display, screen awareness and hand gestures.
 
-`Python` `Speech` `LLM`
+- **~8,400** lines of Python around one shared event bus
+- Gesture recogniser tuned to **zero false positives** on a 44-case benchmark
+
+`Python` `faster-whisper` `MediaPipe` `FastAPI`
 
 </td>
 </tr>
