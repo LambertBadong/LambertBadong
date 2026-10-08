@@ -4,7 +4,7 @@
 
 I design switchgear by day, and build AI-powered tools that take the busywork out of engineering, small business and everyday life.
 
-[Portfolio](https://lambertbadong.github.io) · [LinkedIn](https://www.linkedin.com/in/lambert-badong) · [Résumé](https://lambertbadong.github.io/assets/LambertBadong_Resume.pdf)
+[Portfolio](https://lambertbadong.github.io) · [LinkedIn](https://www.linkedin.com/in/lambert-badong) · [Resume](https://lambertbadong.github.io/assets/LambertBadong_Resume.pdf)
 
 ---
 
