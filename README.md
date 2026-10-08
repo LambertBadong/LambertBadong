@@ -4,7 +4,7 @@
 
 I design switchgear by day, and build AI-powered tools that take the busywork out of engineering, small business and everyday life.
 
-[Portfolio](https://lambertbadong.github.io) · [Résumé](https://lambertbadong.github.io/assets/LambertBadong_Resume.pdf)
+[Portfolio](https://lambertbadong.github.io) · [LinkedIn](https://www.linkedin.com/in/lambert-badong) · [Résumé](https://lambertbadong.github.io/assets/LambertBadong_Resume.pdf)
 
 ---
 
@@ -93,4 +93,4 @@ A voice-first desktop AI assistant for Windows, with wake word, speech and an al
 
 ---
 
-More at **[lambertbadong.github.io](https://lambertbadong.github.io)**
+More at **[lambertbadong.github.io](https://lambertbadong.github.io)** · [LinkedIn](https://www.linkedin.com/in/lambert-badong)
